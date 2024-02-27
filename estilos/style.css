@@ -19,10 +19,6 @@ main{
     width: 100vw;
 }
 
-p{
-    padding: 10px;
-}
-
 section#login{
     position: absolute;
     background-color: white;
