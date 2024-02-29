@@ -41,7 +41,7 @@ section#login > div#imagem{
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 section#login > div#formulario{
